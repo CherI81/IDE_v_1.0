@@ -50,3 +50,8 @@ def score_game(random_predict) -> int:
 
 if __name__ == '__main___':
     score_game(random_predict)
+    
+
+""" просто тест обновления 31.07.23"""
+
+print("test")
