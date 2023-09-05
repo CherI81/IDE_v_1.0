@@ -56,3 +56,6 @@ def score_game(random_predict) -> int:
 if __name__ == "__main__":
     # RUN
     score_game(random_predict)
+
+
+## пробуем еще раз ##
